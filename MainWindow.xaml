@@ -9,12 +9,15 @@
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition></RowDefinition>
-            
-            <RowDefinition>
-              
-            </RowDefinition>
+
+            <RowDefinition></RowDefinition>
         </Grid.RowDefinitions>
-        <Button Margin="380,104,341,56">dfs</Button>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+
+        </Grid.ColumnDefinitions>
+        <Button Margin="380,104,341,56"></Button>
         <Button > sdfdffsd</Button>
        
 
