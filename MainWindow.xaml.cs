@@ -23,7 +23,6 @@ namespace todo
         public MainWindow()
         {
             InitializeComponent();
-            Console.WriteLine("hell");
         }
     }
 }
